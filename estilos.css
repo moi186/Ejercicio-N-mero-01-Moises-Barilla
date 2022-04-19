@@ -1,0 +1,22 @@
+* {
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+.contenedor {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+
+/*usé la paleta de colores de adobe adjunto link abajo
+https://color.adobe.com/es/create/color-wheel */
+
+.azul {
+    color: #0A0EFA;
+}
+
+.rojo {
+    color: #FF0101;
+}
